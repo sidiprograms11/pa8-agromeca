@@ -1,0 +1,18 @@
+# Sensitive configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.ovpn
+
+# Raw internal source documents must not be published
+raw/
+private/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
