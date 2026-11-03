@@ -17,6 +17,20 @@ La matrice RACI du projet et le suivi des livrables attribuent les responsabilit
 | Schéma d'architecture | Co-auteur | Construction de la vue globale avec les membres désignés. |
 | Analyse de risques | Contributeur | Contribution en soutien de l'auteure principale. |
 
+## Contribution de Ezekiel BOUNDA DJIKUI
+
+La matrice RACI du projet et l'inventaire des machines virtuelles attribuent les responsabilités suivantes à Ezekiel :
+
+| Périmètre | Rôle | Preuve de contribution |
+| --- | --- | --- |
+| Nextcloud | Responsable / approbateur (R/A) | Déploiement et configuration de la plateforme de stockage et de collaboration ; machines virtuelles `EZK-Nextcloud` et `EZK-Nextcloud-Collab`. |
+| Dolibarr (ERP/CRM) | Responsable / approbateur (R/A) | Mise en place de la solution de gestion d'entreprise sur un environnement Linux Debian ; machine virtuelle `EZK-Dolibarr`. |
+| Extranet Fedora | Responsable / approbateur (R/A) | Déploiement et configuration de l'environnement extranet de l'entreprise, hébergé sur Fedora. |
+| MariaDB | Responsable / approbateur (R/A) | Installation et configuration des serveurs de bases de données destinés aux services applicatifs, notamment `EZK-MariaDB` et `EZK-MariaDB-Extranet`. |
+| Intégration réseau et sécurité | Consulté | Participation aux échanges techniques concernant la segmentation VLAN, les pare-feu, la gestion des accès, les certificats SSL/TLS et l'intégration des services applicatifs. |
+| Supervision et sauvegardes | Consulté | Participation aux échanges concernant la supervision Splunk et la stratégie de sauvegarde Bacula. |
+| Rapport d'éco-conception | Co-auteur | Contribution à la rédaction du rapport `ecoConception_AgroMeca.pdf` avec Lamyae, portant sur l'optimisation et l'impact environnemental de l'infrastructure informatique. |
+
 Les mentions « en co-responsabilité » et « contributeur » sont volontaires : le projet était collectif et ce portfolio n'attribue pas le travail des autres membres à une seule personne.
 
 ## Livrables d'équipe
