@@ -55,6 +55,18 @@ La matrice RACI et l'historique de livrables attribuent à Sidi une responsabili
 
 Les périmètres exacts et l'attribution RACI sont détaillés dans [mes contributions](docs/contributions.md). Les profils GitHub de l'équipe seront ajoutés après validation de chaque membre.
 
+## Ma contribution — Ezekiel BOUNDA DJIKUI
+
+La matrice RACI et l'inventaire des machines virtuelles attribuent à Ezekiel une responsabilité principale dans le déploiement et l'intégration des services applicatifs et des bases de données au sein de l'infrastructure AgroMeca :
+
+- responsabilité du déploiement et de la configuration de Nextcloud, plateforme de stockage et de collaboration ;
+- responsabilité de la mise en place de Dolibarr (ERP/CRM), solution de gestion des activités de l'entreprise ;
+- responsabilité du déploiement de l'extranet sous Fedora, destiné à l'hébergement des services web de l'entreprise ;
+- responsabilité de l'installation et de la configuration des serveurs MariaDB, notamment pour les besoins de l'extranet ;
+- contribution à l'intégration des services applicatifs dans l'architecture réseau sécurisée ;
+- participation aux échanges techniques concernant la segmentation VLAN, la gestion des accès, les certificats SSL et la supervision ;
+- co-rédaction du rapport d'éco-conception, portant sur l'optimisation et la réduction de l'impact environnemental de l'infrastructure informatique.
+
 ## Risques traités
 
 L'analyse de risques couvre notamment :
