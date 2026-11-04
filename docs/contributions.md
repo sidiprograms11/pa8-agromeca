@@ -33,6 +33,17 @@ La matrice RACI du projet et l'inventaire des machines virtuelles attribuent les
 
 Les mentions « en co-responsabilité » et « contributeur » sont volontaires : le projet était collectif et ce portfolio n'attribue pas le travail des autres membres à une seule personne.
 
+## Contribution de Yann
+
+Yann ([@yann401](https://github.com/yann401)) a assuré la prise en charge de l'ensemble des services de messagerie du projet PA8 — AgroMeca, notamment la configuration SMTP et l'intégration du courrier électronique dans l'infrastructure.
+
+| Périmètre | Rôle | Contribution |
+| --- | --- | --- |
+| Services de messagerie | Responsable du périmètre | Mise en place et configuration des services de courrier électronique du projet. |
+| SMTP | Responsable du périmètre | Configuration du service SMTP pour l'envoi et l'acheminement des courriels. |
+| Intégration de la messagerie | Contributeur | Intégration des services de messagerie dans l'architecture globale, en coordination avec l'équipe. |
+| Schéma d'architecture et analyse de risques | Contributeur | Participation au schéma d'architecture et contribution à l'analyse de risques du projet. |
+
 ## Livrables d'équipe
 
 Le projet inclut notamment :

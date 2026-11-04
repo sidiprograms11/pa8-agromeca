@@ -67,6 +67,17 @@ La matrice RACI et l'inventaire des machines virtuelles attribuent à Ezekiel un
 - participation aux échanges techniques concernant la segmentation VLAN, la gestion des accès, les certificats SSL et la supervision ;
 - co-rédaction du rapport d'éco-conception, portant sur l'optimisation et la réduction de l'impact environnemental de l'infrastructure informatique.
 
+## Contribution de Yann — Messagerie et SMTP
+
+Yann ([@yann401](https://github.com/yann401)) a pris en charge l'ensemble du périmètre de messagerie du projet PA8 — AgroMeca. Son travail couvre la mise en place des services de courrier électronique, la configuration SMTP et leur intégration dans l'infrastructure du projet :
+
+- déploiement et configuration des services de messagerie ;
+- paramétrage du SMTP pour l'envoi et l'acheminement des courriels ;
+- intégration de la messagerie dans l'architecture globale, en coordination avec les autres membres de l'équipe ;
+- participation au schéma d'architecture et contribution à l'analyse de risques.
+
+Cette prise en charge apporte le socle de communication par courrier électronique de l'environnement AgroMeca. Le détail de son périmètre figure dans la [documentation des contributions](docs/contributions.md#contribution-de-yann).
+
 ## Risques traités
 
 L'analyse de risques couvre notamment :
@@ -90,7 +101,7 @@ L'analyse de risques couvre notamment :
 - [Vue d'architecture et principes de sécurité](docs/architecture-overview.md)
 - [Synthèse de l'analyse de risques](docs/risk-management.md)
 - [Contributions et matrice RACI](docs/contributions.md)
-- [Équipe : profils à ajouter](TEAM.md)
+- [Équipe et profils GitHub](TEAM.md)
 - [Règles de publication et gestion des informations sensibles](SECURITY.md)
 - [Captures et schémas publics à ajouter](assets/README.md)
 
