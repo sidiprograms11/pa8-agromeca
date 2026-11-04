@@ -78,6 +78,19 @@ Yann ([@yann401](https://github.com/yann401)) a pris en charge l'ensemble du pé
 
 Cette prise en charge apporte le socle de communication par courrier électronique de l'environnement AgroMeca. Le détail de son périmètre figure dans la [documentation des contributions](docs/contributions.md#contribution-de-yann).
 
+## Contribution de Chaymaa Targhi — Analyse de risques et sécurité réseau
+
+Chaymaa Targhi ([@chaymaatarghi](https://github.com/chaymaatarghi)) a porté la rédaction principale de l'analyse de risques du projet PA8 — AgroMeca, avec les contributions de Sidi et Yann. La matrice RACI et le suivi des livrables lui attribuent également un rôle central dans la sécurisation du réseau :
+
+- co-responsabilité de la réalisation et de la validation des pare-feu pfSense en DMZ et OPNsense interne, avec Sidi ;
+- responsabilité de la création et de la configuration des VLAN ainsi que du filtrage inter-VLAN ;
+- responsabilité du service DHCP pour l'ensemble des VLAN ;
+- responsabilité de la mise en place et de la validation des accès distants via OpenVPN ;
+- approbation de l'architecture DNS maître/esclave et des résolveurs internes et DMZ ;
+- contribution au schéma d'architecture global.
+
+Son travail relie l'évaluation des risques aux choix de segmentation, de filtrage et d'accès distant. Le détail de ses responsabilités et des rôles RACI figure dans la [documentation des contributions](docs/contributions.md#contribution-de-chaymaa-targhi).
+
 ## Risques traités
 
 L'analyse de risques couvre notamment :

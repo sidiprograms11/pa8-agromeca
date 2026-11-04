@@ -44,6 +44,23 @@ Yann ([@yann401](https://github.com/yann401)) a assuré la prise en charge de l'
 | Intégration de la messagerie | Contributeur | Intégration des services de messagerie dans l'architecture globale, en coordination avec l'équipe. |
 | Schéma d'architecture et analyse de risques | Contributeur | Participation au schéma d'architecture et contribution à l'analyse de risques du projet. |
 
+## Contribution de Chaymaa Targhi
+
+Chaymaa Targhi ([@chaymaatarghi](https://github.com/chaymaatarghi)) a assuré la rédaction principale de l'analyse de risques et des responsabilités de réalisation et de validation sur la sécurité réseau du projet. Les attributions ci-dessous sont issues des onglets **Matrice RACI** et **Livrables & Documents** du classeur RACI du projet. Dans la matrice, **R** désigne la réalisation et **A** l'approbation finale.
+
+| Périmètre | Rôle | Contribution |
+| --- | --- | --- |
+| Analyse de risques | Auteure principale | Rédaction principale de l'analyse de risques, avec les contributions de Sidi et Yann, selon le suivi des livrables. |
+| Pare-feu pfSense en DMZ et OPNsense interne | Responsable / approbatrice (R/A), en co-responsabilité avec Sidi | Réalisation et validation du filtrage périmétrique et interne. |
+| Règles de pare-feu inter-VLAN | Responsable / approbatrice (R/A) | Mise en place et validation du filtrage des communications entre VLAN. |
+| VLAN | Responsable / approbatrice (R/A) | Création, configuration et validation de la segmentation VLAN. |
+| DHCP | Responsable / approbatrice (R/A) | Mise en place et validation du service DHCP pour l'ensemble des VLAN. |
+| OpenVPN | Responsable / approbatrice (R/A) | Mise en place et validation du service d'accès distant OpenVPN. |
+| DNS maître/esclave et résolveurs internes / DMZ | Approbatrice (A) | Validation de ces services DNS ; la réalisation est attribuée à Sidi dans la matrice. |
+| Schéma d'architecture | Contributrice | Contribution au schéma d'architecture dont Yann et Sidi sont les auteurs principaux selon le suivi des livrables. |
+
+Cette synthèse présente les responsabilités attribuées sans publier la matrice interne complète ni les configurations techniques.
+
 ## Livrables d'équipe
 
 Le projet inclut notamment :
